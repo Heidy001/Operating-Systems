@@ -1,0 +1,1 @@
+One function of an operating system is getting connected to Internet. Whether it is wirelessly, or manually, an operating system should be able to connect. It can also help with updating your system. 

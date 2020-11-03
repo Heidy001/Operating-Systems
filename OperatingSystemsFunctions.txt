@@ -1,2 +1,3 @@
 One function of an operating system is getting connected to Internet. Whether it is wirelessly, or manually, an operating system should be able to connect. It can also help with updating your system. 
-Annother function of an operating system is updates. Your software operates a lot smoother when updating to the latest version of itself. This also helps with performance. 
+Another function of an operating system is updates. Your software operates a lot smoother when updating to the latest version of itself. This also helps with performance. 
+The final function would be powering off and powering off devices. Whether you are doing this to turn on your computer or mobile device, or to shut them off. An operating system has that functionality. 
